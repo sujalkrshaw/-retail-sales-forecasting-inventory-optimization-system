@@ -1,0 +1,11 @@
+date,store_id,item_id,category,price,promotion,sales,current_stock
+2025-01-01,S1,P101,Grocery,50,1,20,100
+2025-01-02,S1,P101,Grocery,50,0,18,82
+2025-01-03,S1,P101,Grocery,52,1,25,57
+2025-01-04,S1,P102,Beverages,30,0,15,70
+2025-01-05,S1,P102,Beverages,30,1,22,48
+2025-01-06,S2,P201,Snacks,20,0,12,90
+2025-01-07,S2,P201,Snacks,21,1,19,71
+2025-01-08,S2,P202,Dairy,40,0,16,65
+2025-01-09,S2,P202,Dairy,39,1,24,41
+2025-01-10,S1,P101,Grocery,51,0,17,40
