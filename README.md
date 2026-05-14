@@ -298,19 +298,6 @@ Through this project, I learned:
 - 🤖 Machine Learning Learner
 - 📈 Dashboard Developer
 
----
-
-# 🔗 Project Links
-
-## 🌐 Live Demo
-
-https://5xasf7ypkffvqyh6fuxdea.streamlit.app/
-
-## 💻 GitHub Repository
-
-https://github.com/sujalkrshaw/-retail-sales-forecasting-inventory-optimization-system
-
----
 
 # ⭐ Support
 
